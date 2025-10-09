@@ -1,3 +1,6 @@
+---
+socialImage: "Files/slide_header.gif"
+---
 Status: #toreview, #needsalternategif
 Note Type: #move, #initiator, [[turnstore]], #alternate, crouch
 Tags: #fundimentals, #intended, #slide 
