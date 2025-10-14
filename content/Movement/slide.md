@@ -1,11 +1,9 @@
 ---
-socialImage: "Files/slide_header.gif"
+title: "Slide"
+alias: "Movement/whiplash"
+tags: ["fundimentals", "intended", "slide"]
+socialImage: "embedHeaders/slide_header.gif"
 ---
-Status: #toreview, #needsalternategif
-Note Type: #move, #initiator, [[turnstore]], #alternate, crouch
-Tags: #fundimentals, #intended, #slide 
-
-# Slide
 ![[slide_header.gif]]
 ## Description
 It is possible to slide while [[run|running]] by pressing down then jump at roughly the same time. The move can last for roughly 17 frames by holding forward throughout and has several windows throughout its duration to chain to other moves.

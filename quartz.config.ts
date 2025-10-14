@@ -39,8 +39,9 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
+        // Catppuccin macchiato with gif background color for light (background)
         darkMode: {
-          light: "#24273a",
+          light: "#1d1f2a",
           lightgray: "#363a4f",
           gray: "#6e738d",
           darkgray: "#cad3f5",

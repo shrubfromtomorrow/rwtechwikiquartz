@@ -32,3 +32,7 @@ ___
 ![[slidespin_7.gif]]
 ![[slidespin_8.gif]]
 ![[slidespin_9.gif]]
+
+<div class="hidden-alts">
+whiplash
+</div>
